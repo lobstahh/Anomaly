@@ -17,3 +17,4 @@ Anomaly.uproject
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.log
